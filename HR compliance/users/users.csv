@@ -1,0 +1,4 @@
+emp_id,name,username,password,role
+101,Karan,karan01,abc123,admin
+102,Rahul,rahul02,xyz456,manager
+103,Anita,anita03,pass789,employee
