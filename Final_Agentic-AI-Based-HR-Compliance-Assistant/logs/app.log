@@ -1,0 +1,90 @@
+2026-01-30 12:43:32,379 | INFO | ROUTER | Detecting intent for: hi gf i want to leave comapny
+2026-01-30 12:43:32,380 | INFO | ROUTER | Intent decided: {'rag'}
+2026-01-30 12:43:32,401 | INFO | RAG_PIPELINE | RAG Intent Detected: 'general'
+2026-01-30 12:43:32,808 | INFO | RAG_PIPELINE | Retrieved 20 chunks
+2026-01-30 12:46:01,646 | INFO | ROUTER | Detecting intent for: hi hr i want to leave company
+2026-01-30 12:46:01,646 | INFO | ROUTER | Intent decided: {'rag'}
+2026-01-30 12:46:01,655 | INFO | RAG_PIPELINE | RAG Intent Detected: 'general'
+2026-01-30 12:46:01,773 | INFO | RAG_PIPELINE | Retrieved 20 chunks
+2026-01-30 12:50:41,247 | INFO | ROUTER | Detecting intent for: hi hr i want to leave company
+2026-01-30 12:50:41,247 | INFO | ROUTER | Intent decided: {'rag'}
+2026-01-30 12:50:41,264 | INFO | RAG_PIPELINE | RAG Intent Detected: 'general'
+2026-01-30 12:50:41,379 | INFO | RAG_PIPELINE | Retrieved 20 chunks
+2026-01-30 12:54:04,824 | INFO | ROUTER | Detecting intent for: how many employees are there
+2026-01-30 12:54:04,826 | INFO | ROUTER | Intent decided: {'sql'}
+2026-01-30 12:56:17,181 | INFO | ROUTER | Detecting intent for: i want to file case on comapny how can i do that 
+2026-01-30 12:56:17,181 | INFO | ROUTER | Intent decided: {'rag'}
+2026-01-30 12:56:47,084 | INFO | ROUTER | Detecting intent for: how to do fraud with company 
+2026-01-30 12:56:47,085 | INFO | ROUTER | Intent decided: {'rag', 'sql'}
+2026-01-30 12:56:47,092 | INFO | RAG_PIPELINE | RAG Intent Detected: 'procedure'
+2026-01-30 12:56:47,173 | INFO | RAG_PIPELINE | Retrieved 20 chunks
+2026-01-30 12:59:02,390 | INFO | ROUTER | Detecting intent for: i want to change my boss what i can do
+2026-01-30 12:59:02,390 | INFO | ROUTER | Intent decided: {'rag'}
+2026-01-30 12:59:02,404 | INFO | RAG_PIPELINE | RAG Intent Detected: 'general'
+2026-01-30 12:59:02,494 | INFO | RAG_PIPELINE | Retrieved 20 chunks
+2026-01-30 13:04:11,783 | INFO | ROUTER | Detecting intent for: help me to leave comapny
+2026-01-30 13:04:11,784 | INFO | ROUTER | Intent decided: {'rag'}
+2026-01-30 13:04:11,800 | INFO | RAG_PIPELINE | RAG Intent Detected: 'general'
+2026-01-30 13:04:11,871 | INFO | RAG_PIPELINE | Retrieved 20 chunks
+2026-01-30 13:07:34,533 | INFO | ROUTER | Detecting intent for: if they donat give my salary then what i can do
+2026-01-30 13:07:34,534 | INFO | ROUTER | Intent decided: {'rag'}
+2026-01-30 13:07:34,545 | INFO | RAG_PIPELINE | RAG Intent Detected: 'general'
+2026-01-30 13:07:34,659 | INFO | RAG_PIPELINE | Retrieved 20 chunks
+2026-01-30 13:10:49,724 | INFO | ROUTER | Detecting intent for: if they donat give my salary then what i can do
+2026-01-30 13:10:49,724 | INFO | ROUTER | Intent decided: {'rag'}
+2026-01-30 13:10:49,724 | INFO | RAG_PIPELINE | RAG Intent Detected: 'general'
+2026-01-30 13:10:49,745 | INFO | RAG_PIPELINE | Retrieved 20 chunks
+2026-01-30 13:14:29,464 | INFO | ROUTER | Detecting intent for: but my question was that what if company is not giving me my salary on time
+2026-01-30 13:14:29,465 | INFO | ROUTER | Intent decided: {'rag'}
+2026-01-30 13:15:28,550 | INFO | ROUTER | Detecting intent for: what if company is not giving me my salary where I complaint about it
+2026-01-30 13:15:28,550 | INFO | ROUTER | Intent decided: {'rag'}
+2026-01-30 13:19:01,264 | INFO | ROUTER | Detecting intent for: what if my salary is not paid
+2026-01-30 13:19:01,264 | INFO | ROUTER | Intent decided: {'rag'}
+2026-01-30 13:19:01,275 | INFO | RAG_PIPELINE | RAG Intent Detected: 'general'
+2026-01-30 13:19:01,376 | INFO | RAG_PIPELINE | Retrieved 20 chunks
+2026-01-30 14:02:10,701 | INFO | ROUTER | Detecting intent for: what steps I can take if my salary is not paid by company
+2026-01-30 14:02:10,701 | INFO | ROUTER | Intent decided: {'rag'}
+2026-01-30 14:02:10,713 | INFO | RAG_PIPELINE | RAG Intent Detected: 'procedure'
+2026-01-30 14:02:10,839 | INFO | RAG_PIPELINE | Retrieved 20 chunks
+2026-02-07 01:07:07,639 | INFO | ROUTER | Detecting intent for: what is the total number of employees?
+2026-02-07 01:07:07,639 | INFO | ROUTER | Intent decided: {'sql'}
+2026-02-07 01:08:27,535 | INFO | ROUTER | Detecting intent for: what is the total number of employees?
+2026-02-07 01:08:27,535 | INFO | ROUTER | Intent decided: {'sql'}
+2026-02-07 01:18:14,826 | INFO | ROUTER | Detecting intent for: what is the total number of employees?
+2026-02-07 01:18:14,827 | INFO | ROUTER | Intent decided: {'sql'}
+2026-02-07 01:19:42,543 | INFO | ROUTER | Detecting intent for: what is the total number of employees?
+2026-02-07 01:19:42,543 | INFO | ROUTER | Intent decided: {'sql'}
+2026-02-07 01:20:05,129 | INFO | ROUTER | Detecting intent for: what is the joining date of Shweta Khanna whose id is 3042?
+2026-02-07 01:20:05,129 | INFO | ROUTER | Intent decided: {'sql'}
+2026-02-07 01:20:36,753 | INFO | ROUTER | Detecting intent for: how many employees exceeded allowed sick leaves?
+2026-02-07 01:20:36,753 | INFO | ROUTER | Intent decided: {'sql'}
+2026-02-07 01:20:36,755 | INFO | RAG_PIPELINE | RAG Intent Detected: 'permission'
+2026-02-07 01:20:36,923 | INFO | RAG_PIPELINE | Retrieved 20 chunks
+2026-02-07 01:21:24,352 | INFO | ROUTER | Detecting intent for: what is the monthly salary of Priya Patel whose id is 82410 also what is her joining date?
+2026-02-07 01:21:24,352 | INFO | ROUTER | Intent decided: {'sql'}
+2026-02-07 01:21:45,800 | INFO | ROUTER | Detecting intent for: what is the name and id of the employee who have the highest years at company also give me name and id of the employee who have the highest years in current role and also give me what is the name and id of the employee who has taken the highest sick leaves
+2026-02-07 01:21:45,800 | INFO | ROUTER | Intent decided: {'sql'}
+2026-02-07 01:22:42,235 | INFO | ROUTER | Detecting intent for: what is posh policy?
+2026-02-07 01:22:42,235 | INFO | ROUTER | Intent decided: {'rag'}
+2026-02-07 01:22:42,242 | INFO | RAG_PIPELINE | RAG Intent Detected: 'general'
+2026-02-07 01:22:42,281 | INFO | RAG_PIPELINE | Retrieved 20 chunks
+2026-02-07 01:23:18,323 | INFO | ROUTER | Detecting intent for: what is the dress code for PPL?
+2026-02-07 01:23:18,323 | INFO | ROUTER | Intent decided: {'rag'}
+2026-02-07 01:23:18,326 | INFO | RAG_PIPELINE | RAG Intent Detected: 'definition'
+2026-02-07 01:23:18,342 | INFO | RAG_PIPELINE | Retrieved 20 chunks
+2026-02-07 01:24:00,312 | INFO | ROUTER | Detecting intent for: what if an employee exceeds allowed sick leaves what is the penalty?
+2026-02-07 01:24:00,313 | INFO | ROUTER | Intent decided: {'rag'}
+2026-02-07 01:24:00,316 | INFO | RAG_PIPELINE | RAG Intent Detected: 'permission'
+2026-02-07 01:24:00,332 | INFO | RAG_PIPELINE | Retrieved 20 chunks
+2026-02-07 01:24:28,067 | INFO | ROUTER | Detecting intent for: how many sick leaves are left for Ashish Das whose id is 2002?
+2026-02-07 01:24:28,067 | INFO | ROUTER | Intent decided: {'sql'}
+2026-02-07 01:24:28,073 | INFO | RAG_PIPELINE | RAG Intent Detected: 'permission'
+2026-02-07 01:24:28,090 | INFO | RAG_PIPELINE | Retrieved 20 chunks
+2026-02-07 01:25:01,844 | INFO | ROUTER | Detecting intent for: how many employees have Attrition Risk as high?
+2026-02-07 01:25:01,844 | INFO | ROUTER | Intent decided: {'sql'}
+2026-02-07 01:25:33,114 | INFO | ROUTER | Detecting intent for: how many employees have Attrition Risk = 'High'?
+2026-02-07 01:25:33,114 | INFO | ROUTER | Intent decided: {'sql'}
+2026-02-07 01:25:50,430 | INFO | ROUTER | Detecting intent for: how many employees have Attrition Risk = 'Low'?
+2026-02-07 01:25:50,430 | INFO | ROUTER | Intent decided: {'sql'}
+2026-02-07 01:26:03,175 | INFO | ROUTER | Detecting intent for: how many employees have Attrition Risk = 'Medium'?
+2026-02-07 01:26:03,176 | INFO | ROUTER | Intent decided: {'sql'}
